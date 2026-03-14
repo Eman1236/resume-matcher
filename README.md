@@ -1,6 +1,6 @@
 ## Resume Matcher (TS + GraphQL + Postgres)
 
-This service lets you upload a resume (TXT/PDF), extracts a simple profile (title, years of experience, skills), stores it in Postgres, and exposes a GraphQL API to find similar candidates based on overlapping skills.
+This service lets you upload a resume (TXT), extracts a simple profile (title, years of experience, skills), stores it in Postgres, and exposes a GraphQL API to find similar candidates based on overlapping skills.
 
 ### Stack
 
