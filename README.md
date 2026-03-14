@@ -77,6 +77,7 @@ The project follows a **modular, service-oriented architecture**.
 
 ### How to get results
 1. **Upload a Resume (From File Path)**
+
 Use the **uploadResumeFromPath** mutation to create a candidate by uploading a resume. This will automatically parse the resume and create candidate, skills, and link them to the candidate.
 ``` graphql
 mutation{
@@ -170,6 +171,7 @@ Sample Response
 }
 ```
 2. **Find Similar Candidate**
+
 Once a candidate is created, you can find similar candidates based on overlapping skills using the **similarCandidates** query.
 ``` graphql
 query {
