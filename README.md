@@ -14,6 +14,10 @@ Resume Matcher is a NestJS-based backend application designed to parse resumes, 
 - `npm run build` – compile TypeScript to `dist`
 - `npm run start:prod` – run the compiled server
 
+### GraphQL Playground
+
+You can run the queries and mutations using the available GraphQL Playground available [here](http://localhost:3000/graphql) once your server is up and running.
+
 ### Reflecting entity changes in the DB (TypeORM migrations)
 
 1. **Apply existing migrations** (creates/updates tables):
