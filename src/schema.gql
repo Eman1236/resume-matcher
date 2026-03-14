@@ -1,0 +1,37 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Skill {
+  id: Int!
+  name: String!
+}
+
+type Candidate {
+  id: Int!
+  name: String!
+  title: String
+  location: String
+  yearsExperience: Int
+  skills: [Skill!]!
+}
+
+type SimilarCandidate {
+  candidate: Candidate!
+  overlapScore: Int!
+}
+
+type Query {
+  candidates: [Candidate!]!
+  candidate(id: String!): Candidate
+  similarCandidates(candidateId: String!, limit: Int = 5): [SimilarCandidate!]!
+  skills: [Skill!]!
+  skillFindOne(id: String!): Skill!
+  skillFindByName(name: String!): Skill!
+}
+
+type Mutation {
+  uploadResume(resumeText: String!): Candidate!
+  uploadResumeFromPath(resumePath: String!): Candidate!
+  createSkill(name: String!): Skill!
+}

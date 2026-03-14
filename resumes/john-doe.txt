@@ -1,0 +1,14 @@
+Name: John Doe
+Professional Title: Software Engineer II
+City: New jersey, USA
+
+About:
+Generalist engineer. 5 years exp. Frontend and backend.
+
+Experience: 5 years
+
+Technologies:
+React, JavaScript, TypeScript, HTML, CSS
+Node.js, Express, GraphQL
+Postgres, MongoDB
+Git, REST API, Docker

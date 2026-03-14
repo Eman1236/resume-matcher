@@ -1,0 +1,14 @@
+Name: James Wilson
+Professional Title: Software Engineer
+City: London, UK
+
+About:
+Generalist engineer. 3 years exp. Frontend and backend.
+
+Experience: 3 years
+
+Technologies:
+React, JavaScript, TypeScript, HTML, CSS
+Node.js, Express, GraphQL
+Postgres, MongoDB
+Git, REST API, Docker

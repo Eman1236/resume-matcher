@@ -1,0 +1,15 @@
+Name: Priya Sharma
+Backend Engineer (GraphQL/Postgres)
+Remote
+
+Profile:
+Backend specialist. 7 years experience. Love clean APIs and reliable databases.
+
+Work Experience: June 2020 - May 2024
+
+Skills:
+- Postgres SQL, SQL, database design
+- Graph QL, Type Script, Nodejs
+- Python, Java
+- Docker, AWS, CI/CD
+- Agile, Scrum

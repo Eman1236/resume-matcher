@@ -1,0 +1,15 @@
+Name: Mike Rodriguez
+Job Title: Full Stack Developer
+Location: Austin, TX
+
+Objective:
+Backend-focused engineer with 4+ years building APIs and services. Strong in Node.js, Postgres, and cloud.
+
+Experience: 4 years of experience in software development.
+
+Technical Skills:
+JavaScript, TypeScript, Node.js, NestJS
+PostgreSQL
+
+Education:
+BSc Computer Engineering, Texas A&M

@@ -1,0 +1,18 @@
+Name: Sarah Chen
+Title: Senior Frontend Engineer
+Location: San Francisco, CA
+
+Summary:
+Building fast, accessible web apps with React and TypeScript. 6 years of experience in product companies and startups.
+
+Experience: 6 years
+
+Skills:
+- TypeScript, JavaScript, React, Redux
+- HTML, CSS, GraphQL
+- Node.js, REST APIs
+- Git, Agile, TDD
+- CI/CD, Docker
+
+Education:
+BS Computer Science, UC Berkeley
